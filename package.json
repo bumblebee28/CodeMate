@@ -1,0 +1,19 @@
+{
+  "name": "codemate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayush-1712/CodeMate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayush-1712/CodeMate/issues"
+  },
+  "homepage": "https://github.com/Ayush-1712/CodeMate#readme"
+}
